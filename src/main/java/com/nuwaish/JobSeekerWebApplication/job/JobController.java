@@ -1,6 +1,5 @@
 package com.nuwaish.JobSeekerWebApplication.job;
 
-import com.nuwaish.JobSeekerWebApplication.company.Company;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

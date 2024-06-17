@@ -39,7 +39,6 @@ public class JobServiceImpl implements JobService {
         } catch (Exception e) {
             return false;
         }
-
     }
 
     @Override
